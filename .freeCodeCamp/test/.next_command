@@ -14,3 +14,4 @@ help until
 help [[ expression ]]
 [[ -n ... ]]
 [[ hello == hello ]]
+[[ hello == world ]]
