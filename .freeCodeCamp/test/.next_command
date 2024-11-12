@@ -86,3 +86,12 @@ git pull
 git branch
 git status
 git add .
+git comit -m "1. All 5 sh programs finished"
+git commit -m "1. All 5 sh programs finished"
+git pull
+git push
+git push
+git push origin main
+git push origin main
+git status
+git add .
