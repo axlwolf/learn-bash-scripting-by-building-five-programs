@@ -10,3 +10,4 @@ help function
 help
 man until
 help until
+./fortune.sh
