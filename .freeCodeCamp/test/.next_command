@@ -5,3 +5,4 @@ RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again late
 help
 man function
 help function
+./fortune.sh
